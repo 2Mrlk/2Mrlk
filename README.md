@@ -12,7 +12,7 @@
 
 <h3>
 My name is Miguel and I'm a 
-<b><span style="color:#ff0000;">BIG LOVER OF GANLEY</span></b>
+<b><span style="color:#ff0000;">BIG LOVER OF OLD SCHOOL GYM </span></b>
 </h3>
 
 <br><br>
