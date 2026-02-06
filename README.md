@@ -1,28 +1,27 @@
-<!-- HERO IMAGE -->
+<!-- BANNER PRINCIPAL -->
 <p align="center">
-<img src="https://i.pinimg.com/736x/af/eb/84/afeb84b0375e2b58b381f5a615c999ba.jpg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,50:8B0000,100:ff0000&text=Freaky%20Season&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<h1 align="center">FREAK SEASON</h1>
-<h3 align="center">Miguel • Discipline Over Everything</h3>
+<h3 align="center">Discipline Over Everything</h3>
 
 ---
 
-## 🧠 Philosophy
-
-<p align="center">
-<strong>
-No excuses. No shortcuts. Just discipline.
-</strong>
-</p>
-
----
-
-## ⚡ Process vs Result
+## ⚡ Process & Evolution
 
 <p align="center">
 <img src="https://i.pinimg.com/736x/39/73/63/397363517f3eb6074189f1b48f03306f.jpg" width="420"/>
 <img src="https://i.pinimg.com/736x/af/eb/84/afeb84b0375e2b58b381f5a615c999ba.jpg" width="420"/>
+</p>
+
+---
+
+## 🧠 Mindset
+
+<p align="center">
+<strong>
+Built differently. Focused daily. Evolving always.
+</strong>
 </p>
 
 ---
@@ -35,7 +34,7 @@ No excuses. No shortcuts. Just discipline.
 
 ---
 
-## 📊 Stats
+## 📊 Performance
 
 <p align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=dark"/>
@@ -45,7 +44,7 @@ No excuses. No shortcuts. Just discipline.
 
 ---
 
-## 🔥 Streak
+## 🔥 Consistency
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=SEUUSERNAME&theme=dark"/>
@@ -64,5 +63,5 @@ No excuses. No shortcuts. Just discipline.
 ---
 
 <p align="center">
-<i>"Average never built anything legendary."</i>
+<i>"Stay obsessed with becoming your strongest version."</i>
 </p>
