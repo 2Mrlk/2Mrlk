@@ -30,12 +30,6 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l4FGEq97FqIjo3Ci4/giphy.gif" height="40"/>
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" height="40"/>
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" height="40"/>
-</div>
-
-<div align="center">
   <img src="https://img.shields.io/badge/MODE-FREAK-black?style=for-the-badge&labelColor=000000&color=8b0000"/>
   <img src="https://img.shields.io/badge/MINDSET-ALL%20DAY-black?style=for-the-badge&labelColor=000000&color=ff0000"/>
   <img src="https://img.shields.io/badge/DISCIPLINE-100%25-black?style=for-the-badge&labelColor=000000&color=8b0000"/>
