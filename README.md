@@ -7,7 +7,8 @@
 <div align="center">
 
 <!-- TITULO -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=70&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&height=120&lines=FREAK+SEASON" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=70&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&height=120&lines=FREAK+SEASON+💉" />
+
 
 <h3>
 My name is Miguel and I'm a 
