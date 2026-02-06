@@ -20,9 +20,9 @@
 </div>
 
 <p align="center" style="color: #FF0000; font-size: 20px; font-weight: bold;">
-  🔴🖤 STACK
-</p>
 
+</p>
+ALL DAY 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" style="margin: 0 15px;" />
@@ -30,7 +30,7 @@
 </div>
 
 <p align="center" style="color: #FF0000; font-size: 20px; font-weight: bold; margin-top: 20px;">
-  🔴🖤 CONNECT
+
 </p>
 
 <div align="center">
