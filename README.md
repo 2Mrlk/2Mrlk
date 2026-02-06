@@ -15,23 +15,35 @@
   🔥 DISCIPLINE OVER EVERYTHING — NO EXCUSES 🔥
 </p>
 
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:8b0000,100:000000&height=80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Impact&size=40&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=400&lines=ALL+DAY" />
 </div>
 
-<p align="center" style="color: #FF0000; font-size: 20px; font-weight: bold;">
+---
 
-</p>
-ALL DAY 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&size=18&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=500&lines=CODE.;TRAIN.;REPEAT." />
+</div>
+
+---
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" style="margin: 0 15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" />
 </div>
 
-<p align="center" style="color: #FF0000; font-size: 20px; font-weight: bold; margin-top: 20px;">
+---
 
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/MENTALITY-FREAK-black?style=for-the-badge&labelColor=000000&color=8b0000" />
+  <img src="https://img.shields.io/badge/MODE-ALL%20DAY-black?style=for-the-badge&labelColor=000000&color=ff0000" />
+  <img src="https://img.shields.io/badge/STATUS-DISCIPLINED-black?style=for-the-badge&labelColor=000000&color=8b0000" />
+</div>
+
+---
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=red"/></a>
@@ -41,6 +53,3 @@ ALL DAY
   <a href="#"><img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=red"/></a>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:8b0000&height=120&section=footer" />
-</div>
