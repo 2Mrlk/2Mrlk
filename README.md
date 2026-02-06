@@ -1,88 +1,73 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=200&section=header&text=Miguel&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:8b0000&height=120&section=header&text=MIGUEL&fontSize=55&fontColor=ffffff&animation=fadeIn" />
 
 </div>
 
-<h3 align="center">
-  🔴🖤 BIG LOVER OF GANLEY 🖤🔴
-</h3>
-
 <p align="center">
-  Strength • Discipline • Code
+  <strong>BIG LOVER OF GANLEY</strong><br>
+  discipline > motivation
 </p>
 
 ---
 
-## 🏋️ About Me
-
 <div align="center">
-  <img src="https://i.pinimg.com/736x/6e/eb/71/6eeb71259d691997dc8169658d477009.jpg" height="260" />
-  <img src="https://i.pinimg.com/736x/08/7c/12/087c125e9da2e544b553941d362fd1a5.jpg" height="260" />
+  <img src="https://i.pinimg.com/736x/6e/eb/71/6eeb71259d691997dc8169658d477009.jpg" width="320" />
 </div>
 
-<p align="center">
-  Gym rat by night 🏋️<br>
-  Developer by day 💻<br>
-  Freaky Season 🧢
-</p>
-
----
-
-## 🔴🖤 Tech Stack
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" />
+  <img src="https://i.pinimg.com/736x/08/7c/12/087c125e9da2e544b553941d362fd1a5.jpg" width="320" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
+### ⚫ WHO AM I
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark&title_color=ff0000&text_color=ffffff&bg_color=000000" />
+> code. iron. repeat.  
+>  
+> no hype. no shortcuts.  
+> just work.
+
+---
+
+### 🔴 STACK
+
+<div align="left">
+  ▸ JavaScript  
+  ▸ React  
+  ▸ HTML  
 </div>
 
 ---
 
-## 🎧 Vibing To
+### 🧠 CURRENT MODE
 
-<img align="right" height="140" src="https://i.scdn.co/image/ab6765630000ba8a0d35a0e91883832434f9d3ae" />
-
-- Training hard  
-- Coding harder  
-- No days off  
+- training heavy  
+- learning daily  
+- building quietly  
 
 ---
 
-## 🌐 Connect With Me
+### 📊 SIGNAL (NOT FLEX)
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=red"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=red"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitch-black?style=for-the-badge&logo=twitch&logoColor=red"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=red"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=red"/></a>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&bg_color=000000&title_color=8b0000&icon_color=8b0000&text_color=ffffff&hide_border=true" />
 </div>
 
 ---
 
-## 🐐 Mindset
+### 🔗 CONTACT
 
-<div align="center">
-  <strong>NO EXCUSES.</strong><br>
-  <strong style="color:red;">JUST PROGRESS.</strong> 🚀
+<div align="left">
+  ▸ Instagram  
+  ▸ Discord  
+  ▸ Gmail  
 </div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:000000&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,100:000000&height=80&section=footer" />
 
 </div>
