@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00C8,100:000000&height=6" width="100%"/>
 
 <!-- BANNER -->
-<img src="https://media1.tenor.com/m/TPSGWL9PbVIAAAAd/cool-colded.gif" width="100%"/>
+<img src="https://media1.tenor.com/m/YCONZC1xuUcAAAAC/majin-buu-evil-smile.gif" width="100%"/>
 
 <div align="center">
 
