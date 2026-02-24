@@ -1,5 +1,5 @@
 <!-- BARRA NEON TOPO -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A020F0,100:000000&height=6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00C8,100:000000&height=6" width="100%"/>
 
 <!-- BANNER -->
 <img src="https://media1.tenor.com/m/TPSGWL9PbVIAAAAd/cool-colded.gif" width="100%"/>
@@ -7,11 +7,13 @@
 <div align="center">
 
 <!-- TITULO -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=70&pause=1000&color=A020F0&center=true&vCenter=true&width=1000&height=120&lines=FREAK+SEASON+💉" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=70&pause=1000&color=FF00C8&center=true&vCenter=true&width=1000&height=120&lines=FREAK+SEASON" alt="FREAK SEASON" />
+</div>
 
 <h3>
 My name is Miguel and I'm a 
-<b><span style="color:#A020F0;">BIG LOVER OF OLD SCHOOL GYM </span></b>
+<b><span style="color:#FF00C8;">BIG LOVER OF OLD SCHOOL GYM </span></b>
 </h3>
 
 <br><br>
@@ -27,10 +29,10 @@ width="330"
 style="
 border-radius:12px;
 box-shadow:
-0 0 10px #A020F0,
-0 0 20px #A020F0,
-0 0 40px #A020F0,
-0 0 80px #A020F0;">
+0 0 15px #FF00C8,
+0 0 30px #FF00C8,
+0 0 60px #FF00FF,
+0 0 120px #FF00FF;">
 </td>
 
 <td align="center">
@@ -40,10 +42,10 @@ width="330"
 style="
 border-radius:12px;
 box-shadow:
-0 0 10px #A020F0,
-0 0 20px #A020F0,
-0 0 40px #A020F0,
-0 0 80px #A020F0;">
+0 0 15px #FF00C8,
+0 0 30px #FF00C8,
+0 0 60px #FF00FF,
+0 0 120px #FF00FF;">
 </td>
 
 </tr>
@@ -52,12 +54,12 @@ box-shadow:
 <br>
 
 <h1>
-DISCIPLINE <span style="color:#A020F0;">OVER</span> EVERYTHING
+DISCIPLINE <span style="color:#FF00C8;">OVER</span> EVERYTHING
 </h1>
 
 <br>
 
-<h2>⚔️ TECH ARSENAL ⚔️</h2>
+<h2 style="color:#FF00C8;">⚔️ TECH ARSENAL ⚔️</h2>
 
 <p>
 <img src="https://skillicons.dev/icons?i=js&theme=dark"/>
@@ -70,33 +72,51 @@ DISCIPLINE <span style="color:#A020F0;">OVER</span> EVERYTHING
 
 <!-- STATUS -->
 <p>
-<img src="https://img.shields.io/badge/MODE-FREAK-A020F0?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/MINDSET-ALL_DAY-A020F0?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/DISCIPLINE-100%25-A020F0?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-A020F0?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/MODE-FREAK-FF00C8?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/MINDSET-ALL_DAY-FF00C8?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/DISCIPLINE-100%25-FF00C8?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-FF00C8?style=for-the-badge&labelColor=000000"/>
 </p>
 
 <br><br>
 
 <!-- CONTATO -->
 <p>
-<a href="https://www.instagram.com/miguell.015?igsh=NjJ3aTQwcjdyejJq&utm_source=qr">
-<img src="https://img.shields.io/badge/INSTAGRAM-0d1117?style=for-the-badge&logo=instagram&logoColor=A020F0"/>
+<a href="https://www.instagram.com/miguell.015">
+<img src="https://img.shields.io/badge/INSTAGRAM-0d1117?style=for-the-badge&logo=instagram&logoColor=FF00C8"/>
 </a>
 
 <a href="mailto:miguelsoaresmachado.mm@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=A020F0"/>
+<img src="https://img.shields.io/badge/GMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=FF00C8"/>
 </a>
 </p>
 
-<br>
+<br><br>
 
-<!-- RODAPÉ ANIMADO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=footer"/>
+<div align="center">
+  <img 
+    src="https://media1.tenor.com/m/v8GOZa46fmEAAAAC/black-goku-aura.gif"
+    width="700"
+    style="
+      border-radius:18px;
+      box-shadow: 0 0 40px #FF00C8, 0 0 80px #FF00FF;
+      filter: hue-rotate(310deg) saturate(320%);
+    ">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=ENTER+THE+FREAK+SEASON;DISCIPLINE+BUILDS+LEGENDS;SEE+YOU+AT+THE+TOP"/>
+  <br><br>
+
+
 
 </div>
 
-<!-- BARRA NEON FINAL -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A020F0,100:000000&height=6" width="100%"/>
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF00C8&height=200&section=footer&animation=fadeIn&fontSize=40&text=DISCIPLINE%20BUILDS%20GODS&fontAlign=50&fontAlignY=60" width="100%"/>
+
+<div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&pause=1000&color=FF00C8&center=true&vCenter=true&width=1000&height=100&lines=HEAVY+DUTY;THE+40%25+RULE;STAY+HARD;MISTAKES+OF+AMBITION+NOT+SLOTH;DISCIPLINE+BUILDS+GODS" alt="Mindset" />
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00C8,100:000000&height=12" width="100%"/>
+
+</div>
