@@ -12,8 +12,8 @@
 </div>
 
 <h3>
-My name is Miguel and I'm a 
-<b><span style="color:#FF00C8;">BIG LOVER OF OLD SCHOOL GYM </span></b>
+My name is Miguel 
+<b><span style="color:#FF00C8;"></span></b>
 </h3>
 
 <br><br>
