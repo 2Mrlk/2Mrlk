@@ -112,8 +112,8 @@ DISCIPLINE <span style="color:#FF00C8;">OVER</span> EVERYTHING
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&pause=1000&color=FF00C8&center=true&vCenter=true&width=1000&height=100&lines=HEAVY+DUTY;THE+40%25+RULE;STAY+HARD;MISTAKES+OF+AMBITION+NOT+SLOTH;DISCIPLINE+BUILDS+GODS" alt="Mindset" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&pause=1000&color=ffffff&center=true&vCenter=true&width=1000&height=100&lines=HEAVY+DUTY;THE+40%25+RULE;STAY+HARD;MISTAKES+OF+AMBITION+NOT+SLOTH;DISCIPLINE+BUILDS+GODS" alt="Mindset" />
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00C8,100:000000&height=12" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0000,100:000000&height=12" width="100%"/>
 
 </div>
