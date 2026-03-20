@@ -2,14 +2,11 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0000,100:000000&height=6" width="100%"/>
 
 <!-- BANNER -->
-<img src="https://media1.tenor.com/m/YCONZC1xuUcAAAAC/majin-buu-evil-smile.gif" width="100%"/>
+<img src="https://media1.tenor.com/m/Kl6ifyJbdDMAAAAd/khamzat-chimaev.gif" width="100%"/>
 
 <div align="center">
 
-<!-- TITULO -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=70&pause=1000&color=FF00C8&center=true&vCenter=true&width=1000&height=120&lines=FREAK+SEASON" alt="FREAK SEASON" />
-</div>
+
 
 <h3>
 My name is Miguel 
@@ -111,7 +108,7 @@ DISCIPLINE <span style="color:#FF00C8;">OVER</span> EVERYTHING
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF00C8&height=200&section=footer&animation=fadeIn&fontSize=40&text=DISCIPLINE%20BUILDS%20GODS&fontAlign=50&fontAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=200&section=footer&animation=fadeIn&fontSize=40&text=DISCIPLINE%20BUILDS%20GODS&fontAlign=50&fontAlignY=60" width="100%"/>
 
 <div align="center">
   
