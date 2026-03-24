@@ -69,10 +69,10 @@ DISCIPLINE <span style="color:#FF00C8;">OVER</span> EVERYTHING
 
 <!-- STATUS -->
 <p>
-<img src="https://img.shields.io/badge/MODE-FREAK-FF00C8?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/MINDSET-ALL_DAY-FF00C8?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/DISCIPLINE-100%25-FF00C8?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-FF00C8?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/MODE-FREAK-ffffff?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/MINDSET-ALL_DAY-ffffff?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/DISCIPLINE-100%25-ffffff?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-ffffff?style=for-the-badge&labelColor=000000"/>
 </p>
 
 <br><br>
@@ -80,11 +80,11 @@ DISCIPLINE <span style="color:#FF00C8;">OVER</span> EVERYTHING
 <!-- CONTATO -->
 <p>
 <a href="https://www.instagram.com/miguell.015">
-<img src="https://img.shields.io/badge/INSTAGRAM-0d1117?style=for-the-badge&logo=instagram&logoColor=FF00C8"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-0d1117?style=for-the-badge&logo=instagram&logoColor=ffffff"/>
 </a>
 
 <a href="mailto:miguelsoaresmachado.mm@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=FF00C8"/>
+<img src="https://img.shields.io/badge/GMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
 </a>
 </p>
 
