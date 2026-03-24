@@ -21,7 +21,8 @@ My name is Miguel
 
 <td align="center">
 <img 
-src="https://i.pinimg.com/736x/90/f9/2b/90f92b15cd5d280953617dd449c8c148.jpg" width="400"
+src="https://github.com/user-attachments/assets/d7f43454-c961-48ab-b0c5-dec34d86914d"
+" width="400"
 width="330"
 style="
 border-radius:12px;
@@ -44,6 +45,20 @@ box-shadow:
 0 0 60px #FF00FF,
 0 0 120px #FF00FF;">
 </td>
+
+<td align="center">
+<img 
+src="https://i.pinimg.com/736x/50/e9/30/50e93056422ead5c3a24b47460c38361.jpg"
+width="330"
+style="
+border-radius:12px;
+box-shadow:
+0 0 15px #FF00C8,
+0 0 30px #FF00C8,
+0 0 60px #FF00FF,
+0 0 120px #FF00FF;">
+</td>
+
 
 </tr>
 </table>
@@ -92,7 +107,7 @@ DISCIPLINE <span style="color:#FF00C8;">OVER</span> EVERYTHING
 
 <div align="center">
   <img 
-    src="https://media1.tenor.com/m/v8GOZa46fmEAAAAC/black-goku-aura.gif"
+    src="https://media1.tenor.com/m/YFCu8IQikiYAAAAd/chama-alex-pereira.gif"
     width="700"
     style="
       border-radius:18px;
