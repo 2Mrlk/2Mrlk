@@ -107,7 +107,7 @@ DISCIPLINE <span style="color:#FF00C8;">OVER</span> EVERYTHING
 
 <div align="center">
   <img 
-    src="https://media1.tenor.com/m/YFCu8IQikiYAAAAd/chama-alex-pereira.gif"
+    src="https://media1.tenor.com/m/xtI8C243idgAAAAd/dagestan-send-him-2-3-years.gif"
     width="700"
     style="
       border-radius:18px;
