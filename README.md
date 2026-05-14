@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0000,100:000000&height=6" width="100%"/>
 
 <!-- BANNER -->
-<img src="https://media1.tenor.com/m/Kl6ifyJbdDMAAAAd/khamzat-chimaev.gif" width="100%"/>
+<img src="https://c.tenor.com/dn9Dd-P4JfAAAAAC/tenor.gif" width="100%"/>
 
 <div align="center">
 
@@ -107,7 +107,7 @@ DISCIPLINE <span style="color:#FF00C8;">OVER</span> EVERYTHING
 
 <div align="center">
   <img 
-    src="https://media1.tenor.com/m/xtI8C243idgAAAAd/dagestan-send-him-2-3-years.gif"
+    src="https://c.tenor.com/h8HCN5XDKj8AAAAC/tenor.gif"
     width="700"
     style="
       border-radius:18px;
